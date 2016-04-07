@@ -1,9 +1,7 @@
 #Puzzles
 Why is the game called Puzzles? That's the puzzle. 
-
-
 </br>
 </br>
 </br>
-<!-- bra bravooooo. my aids game is on point -andrew ?-->
+<!-- bra bravooooo. my meme game is on point -andrew ?-->
 It's actually a puzzling action-adventure game.
