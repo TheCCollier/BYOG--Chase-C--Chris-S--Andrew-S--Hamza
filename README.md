@@ -1,4 +1,3 @@
 #Puzzles
-##The game that's sooooo puzzling.
-###Why is it so puzzling? That's the puzzle.
+Why is it called puzzle? That's the puzzle. It's an action-adventure game.
 
