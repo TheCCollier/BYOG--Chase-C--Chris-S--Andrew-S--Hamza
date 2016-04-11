@@ -12,14 +12,14 @@ Our game will contain sprite sheets for main characters and villains, background
 
 Team members:
 
-Chase Collier
+Chase Collier:
 *Intellectual Mastermind*
 
-Hamza Nashar
+Hamza Nashar:
 *Lingual Mastermind*
 
-Chris Sierra
+Chris Sierra:
 *Artistic Mastermind*
 
-Andrew Schwartz 
+Andrew Schwartz: 
 *Technical Mastermind*
