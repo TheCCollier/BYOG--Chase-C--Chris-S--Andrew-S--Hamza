@@ -15,5 +15,8 @@ Team members:
 Chase Collier
 *Intellectual Mastermind*
 Hamza Nashar
+*Lingual Mastermind*
 Chris Sierra
+*Artistic Mastermind*
 Andrew Schwartz 
+*Technical Mastermind*
