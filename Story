@@ -3,6 +3,7 @@ Scene 1
 [El caballero looks depressed at the grave with head down in contemplation]
 [He looks up to place a rose on the grave and notices an amulet mysteriously placed on the grave]
 C: What is this?
+"press F to interact to pickup or interact with the objects around you"
 [He goes to pick up the amulet and a portal appears]
 [He goes into the portal and a dream sequence of the death of chichorito plays]
 [The dream sequence appears with a washed screen and temporal music]
@@ -18,10 +19,14 @@ PCP: if you want to get your revenge for Chichorito you have to pass all the ter
 Cuc: is El Cabaellero going to pass the puzzles?
 Cuc: is he going to get his revenge for Chichorito?
 Cuc: will El Caballero face his demise?
-Cuc: what will happen to El Caballero if he faces PCP?
-Cuc: Find out in the next episode of El Caballero Z.
-[PCP runs away into his lair towards his gate to escape]
+Cuc: what will happen to El Caballero when he faces PCP?
+Cuc: Find out next!
+PCP: if want to come and get me, you better catch me HAHAHAHHA!
+"Press A to move left | press D to move right | press W to move up | press S to move down.
+[PCP runs away into his lair towards his gate to escape.
+"Catch PCP before he escapes!"
 [El Caballero runs after him until he almost reaches PCP]
 [the Gates closes on El Caballero as he almost reaches him]
 [A trap door opens up under El Caballero and he falls into a new stage]
+
 
